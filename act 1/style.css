@@ -1,0 +1,15 @@
+.image {
+    border-radius: 100%;
+    width: 200px;
+    height: auto;
+
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    text-align: center;
+}
